@@ -1,0 +1,19 @@
+.max-w-prose {
+    max-width: 105ch;
+}
+
+.max-w-screen-xl {
+    max-width: 4096px;
+}
+
+.featured-image-wrapper {
+    margin: auto;
+}
+
+.max-w-\[500px\] {
+    max-width: 70em; /* 取消宽度限制 */
+}
+
+.prose {
+    max-width: 100ch;
+}
