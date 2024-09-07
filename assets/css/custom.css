@@ -17,3 +17,17 @@
 .prose {
     max-width: 100ch;
 }
+
+:is(.dark .dark\:bg-gray-800) {
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+
+.prose-slate {
+    --tw-prose-invert-body: rgb(255 255 255);
+}
+
+:is(.dark .dark\:text-gray-300) {
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity));
+}
