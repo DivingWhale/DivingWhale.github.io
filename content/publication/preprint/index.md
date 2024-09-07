@@ -7,6 +7,8 @@ authors:
 date: "2024-05-12"
 doi: ""
 
+commentable: true
+
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-09-04"
 

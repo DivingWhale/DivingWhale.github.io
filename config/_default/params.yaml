@@ -58,5 +58,15 @@ features:
     enable: true
   privacy_pack:
     enable: false
+  comment:
+    provider: 'giscus'
+    giscus:
+      repo: 'DivingWhale/divingwhale.github.io'
+      repo_id: 'R_kgDOMuRl-Q'
+      category: 'Announcements'
+      category_id: 'DIC_kwDOMuRl-c4CiSK6'
+      theme: preferred_color_scheme
+      language_code: en
+      mapping: pathname
 
 plugins_css: "custom"
