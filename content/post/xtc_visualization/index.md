@@ -9,6 +9,7 @@ tags:
 image:
   caption: 'gmx trjconv'
   preview_only: true
+commentable: true
 
 draft: false
 ---
